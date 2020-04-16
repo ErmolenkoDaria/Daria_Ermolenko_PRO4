@@ -58,14 +58,29 @@ h1 {font-family: 'Yeseva One', cursive;
 	background-color:#3ECFAE;
 	border:none;
 }
+footer h3{
+	font-family: 'Yeseva One', cursive;
+}
+footer p{
+	font-family: 'Nunito', sans-serif;
+	font-size: 13px;
+}
 footer {
-	color:black; 
+	color:#1C362D; 
 	font-display: 'Nunito', sans-serif;
 	background-image: url("../images/pattern.jpg");
-	padding: 0.5em;
+	padding: 2em;
 	text-align: right;
-	margin-top: 12px;
+	margin-top: 20px;
 }
-
+.contact{
+	text-align: right
+}
+.merch{
+	text-align: center
+}
+.redbull {
+	text-align: left
+}
 	
 
