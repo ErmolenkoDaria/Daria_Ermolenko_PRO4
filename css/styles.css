@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body header {
+}
+.my-class  {
+    color: red;
+    border: 1px solid color;
+    background-color: lightblue;
+    padding: 0.5em;
+    text-align: center;
+}
