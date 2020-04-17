@@ -41,29 +41,58 @@ header  {
 }
 h1 {font-family: 'Yeseva One', cursive;	
 	font-size:30px}
+.navbar{
+	font-family:'Yeseva One', cursive;	
+
+}
+p {
+	text-align: left;
+		margin-top:20px;
+	margin-bottom: 20px;
+}
 .intro {
 	color:#1C362D;
     border: 1px solid color;
     padding: 0.5em;
     text-align: right;
 	font-family: 'Nunito', sans-serif;
-	
-	
 }
-.btn-info:active{
-	color:aquamarine;
-	background-color:#FFE1E2;
+.row{
+	margin-bottom: 40px;
+	margin-top: 20px;
 }
-.btn-info:hover{
+.intro2 {
+	color:#1C362D;
+    border: 1px solid color;
+    padding: 0.5em;
+    text-align: left;
+	font-family: 'Nunito', sans-serif;
+}
+.btn{
+	background-color: #FFE1E2;
+	border:none;
+	color:#1C362D;
+}
+.btn:active{
 	background-color:#3ECFAE;
 	border:none;
 }
+.btn:hover{
+	background-color:#3ECFAE;
+	border:none;
+}
+.btn:focus{
+	background-color:#3ECFAE;
+	border:none;
+}
+
 footer h3{
 	font-family: 'Yeseva One', cursive;
 }
 footer p{
 	font-family: 'Nunito', sans-serif;
 	font-size: 13px;
+	text-align:inherit;
 }
 footer {
 	color:#1C362D; 
@@ -83,4 +112,9 @@ footer {
 	text-align: left
 }
 	
+/*additional css for tour dates page*/
+h2{
+	font-size:25px;
+	colour:#3ECFAE;
+}
 
